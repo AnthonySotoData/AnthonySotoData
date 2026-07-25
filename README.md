@@ -41,15 +41,13 @@ Predictive Healthcare Operations Intelligence platform that uses machine learnin
 
 ---
 
-# Supporting Projects
+# Additional Experience
 
-Additional repositories demonstrate experience with:
+In addition to my featured public AI projects, I have completed graduate-level projects involving:
 
-- Machine Learning model deployment
-- REST API development
+- Machine learning model deployment
 - Apache Airflow ETL pipelines
-- Cloud data warehousing
-- BigQuery analytics
+- Cloud data warehousing and analytics
 - MLflow experiment tracking
 - Docker containerization
 
