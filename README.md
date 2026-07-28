@@ -30,7 +30,7 @@ Enterprise AI-powered prior authorization intelligence platform that transforms 
 ### ProcureAI
 Enterprise procurement and contract intelligence platform that applies Retrieval-Augmented Generation (RAG), document intelligence, and semantic search to analyze procurement documentation and generate structured business insights.
 
-**Technologies:** Python • FastAPI • OpenAI • ChromaDB • Vector Search • Docker
+**Technologies:** Python • FastAPI • OpenAI • ChromaDB • Vector Search • Docker 
 
 ---
 
